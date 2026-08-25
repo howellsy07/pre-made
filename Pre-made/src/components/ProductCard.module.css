@@ -1,0 +1,11 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  background: white;
+}
+.btn {
+  padding: 4px 10px;
+  margin: 0 5px;
+}
